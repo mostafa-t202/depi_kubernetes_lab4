@@ -43,7 +43,8 @@ because I need to specify the environment variables
  Container 1 Image: busybox
  Container 2 Name: gold
  Container 2 Image: redis
- <img width="656" alt="10 1" src="https://github.com/user-attachments/assets/1dd19583-b94e-402f-9ae4-2049628eb1bf">
+ 
+<img width="656" alt="10 1" src="https://github.com/user-attachments/assets/1dd19583-b94e-402f-9ae4-2049628eb1bf">
 <img width="657" alt="10 2" src="https://github.com/user-attachments/assets/a793e3bb-750d-46d3-b363-b901e92ccf82">
 
 11- Create a pod red with redis image and use an initContainer that
