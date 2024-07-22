@@ -79,7 +79,8 @@ c. GROUP and its value should be “Industries”
  Volume Name: claim-log-1
  Storage Request: 50Mi
  Access Modes: ReadWriteMany
- <img width="653" alt="17 1" src="https://github.com/user-attachments/assets/447d0c1a-afc7-42bd-80af-47cfb66cce0b">
+ 
+<img width="653" alt="17 1" src="https://github.com/user-attachments/assets/447d0c1a-afc7-42bd-80af-47cfb66cce0b">
 <img width="659" alt="17 2" src="https://github.com/user-attachments/assets/9cb2e04c-7d40-4a12-9fe2-f142132936f6">
 
 18- Create a webapp pod to use the persistent volume claim as its storage.
