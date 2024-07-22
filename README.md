@@ -18,7 +18,8 @@
  <img width="656" alt="6 1" src="https://github.com/user-attachments/assets/a3ce4a54-de08-4d96-9851-9a605afb07f9">
 <img width="662" alt="6 2" src="https://github.com/user-attachments/assets/6f1823a1-e216-49e9-aa9c-2aadc901a31d">
 
- 7- why the db-pod status not ready
+ 7- why the db-pod status not ready?
+ 
 because I need to specify the environment variables
 
  8- Create a new secret named db-secret with the data given below.
