@@ -71,7 +71,8 @@ c. GROUP and its value should be “Industries”
  Storage: 100Mi
  Access Modes: ReadWriteMany
  Host Path: /pv/log
- <img width="652" alt="16 1" src="https://github.com/user-attachments/assets/b38f7817-769c-4936-be38-20bb2b0d383d">
+ 
+<img width="652" alt="16 1" src="https://github.com/user-attachments/assets/b38f7817-769c-4936-be38-20bb2b0d383d">
 <img width="655" alt="16 2" src="https://github.com/user-attachments/assets/e3fb0232-4cd4-42b3-8684-885434eaae22">
 
 17- Create a Persistent Volume Claim with the given specification.
