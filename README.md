@@ -10,6 +10,7 @@
 <img width="656" alt="3 2" src="https://github.com/user-attachments/assets/4967d1e2-a201-4d1e-8600-ced1a8be90a6">
 
  4- How many Secrets exist on the system?
+ 
  <img width="650" alt="4" src="https://github.com/user-attachments/assets/3842dcca-7aeb-4b70-9678-7aa4b46fbbc0">
 
 6- create a POD called db-pod with the image mysql:5.7 then check the
